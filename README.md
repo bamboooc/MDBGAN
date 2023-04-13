@@ -1,14 +1,14 @@
 Python implementation code for the paper titled,
 
-Title: Stochastic simulation of fluvial reservoirs based on a multi-stage dual branch GAN model**
+Title: Stochastic simulation of fluvial reservoirs using a multi-stage dual-branch GAN**
 
-Authors: Ting Zhang1, Peng Zhu1, Yi Du2, * 
+Ting Zhang1, Yue Dong1, Peng Zhu1, Yi Du2
 
-1.College of Computer Science and Technology, Shanghai University of Electric Power, Shanghai 200090, China 
+1. College of Computer Science and Technology, Shanghai University of Electric Power, Shanghai 200090, China, 
 
-2.College of Engineering, Shanghai Polytechnic University, Shanghai 201209, China
+2. School of Computer and Information, Shanghai Polytechnic University, Shanghai 201209, China
 
-(*corresponding author, E-mail: duyi0701@126.com. Tel.: 86 - 21- 50214252. Fax: 86 - 21- 50214252. )
+Corresponding author: Yi Du (duyi0701@126.com)
 
 Ting Zhang Email: tingzh@shiep.edu.cn, Affiliation: College of Computer Science and Technology, Shanghai University of Electric Power, Shanghai 200090, China
 
