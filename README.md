@@ -14,6 +14,8 @@ Ting Zhang Email: tingzh@shiep.edu.cn, Affiliation: College of Computer Science 
 
 Peng Zhu: bamboooc@mail.shiep.edu.cn, Affiliation: College of Computer Science and Technology, Shanghai University of Electric Power, Shanghai 200090, China
 
+Yue Dong: kumacacti@163.com, Affiliation: College of Computer Science and Technology, Shanghai University of Electric Power, Shanghai 200090, China
+
 Yi Du E-mail: duyi0701@126.com, Affiliation: College of Engineering, Shanghai Polytechnic University, Shanghai 201209, China
 
 # MDBGAN
